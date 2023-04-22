@@ -25,3 +25,8 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+
+.dotcss {
+  border: 3px dotted green;
+}
